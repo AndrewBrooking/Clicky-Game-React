@@ -1,0 +1,207 @@
+[
+    {
+        "id": 1,
+        "image": "./images/bowser-jr.png"
+    },
+    {
+        "id": 2,
+        "image": "./images/bowser.png"
+    },
+    {
+        "id": 3,
+        "image": "./images/captain-falcon.png"
+    },{
+        "id": 4,
+        "image": "./images/charizard.png"
+    },
+    {
+        "id": 5,
+        "image": "./images/chrom.png"
+    },
+    {
+        "id": 6,
+        "image": "./images/cloud.png"
+    },
+    {
+        "id": 7,
+        "image": "./images/daisy.png"
+    },
+    {
+        "id": 8,
+        "image": "./images/dark-pit.png"
+    },{
+        "id": 9,
+        "image": "./images/diddy-kong.png"
+    },
+    {
+        "id": 10,
+        "image": "./images/donkey-kong.png"
+    },
+    {
+        "id": 11,
+        "image": "./images/dr-mario.png"
+    },
+    {
+        "id": 12,
+        "image": "./images/duck-hunt-duo.png"
+    },
+    {
+        "id": 13,
+        "image": "./images/falco.png"
+    },{
+        "id": 14,
+        "image": "./images/fox.png"
+    },
+    {
+        "id": 15,
+        "image": "./images/game-n-watch.png"
+    },
+    {
+        "id": 16,
+        "image": "./images/ganon.png"
+    },
+    {
+        "id": 17,
+        "image": "./images/greninja.png"
+    },
+    {
+        "id": 18,
+        "image": "./images/jigglypuff.png"
+    },{
+        "id": 19,
+        "image": "./images/king-dedede.png"
+    },
+    {
+        "id": 20,
+        "image": "./images/kirby.png"
+    },
+    {
+        "id": 21,
+        "image": "./images/link.png"
+    },
+    {
+        "id": 22,
+        "image": "./images/little-mac.png"
+    },
+    {
+        "id": 23,
+        "image": "./images/lucario.png"
+    },{
+        "id": 24,
+        "image": "./images/lucas.png"
+    },
+    {
+        "id": 25,
+        "image": "./images/lucina.png"
+    },
+    {
+        "id": 26,
+        "image": "./images/luigi.png"
+    },
+    {
+        "id": 27,
+        "image": "./images/mario.png"
+    },
+    {
+        "id": 28,
+        "image": "./images/marth.png"
+    },{
+        "id": 29,
+        "image": "./images/mega-man.png"
+    },
+    {
+        "id": 30,
+        "image": "./images/meta-knight.png"
+    },
+    {
+        "id": 31,
+        "image": "./images/mewtwo.png"
+    },
+    {
+        "id": 32,
+        "image": "./images/mii-fighters.png"
+    },
+    {
+        "id": 33,
+        "image": "./images/ness.png"
+    },{
+        "id": 34,
+        "image": "./images/olimar.png"
+    },
+    {
+        "id": 35,
+        "image": "./images/pac-man.png"
+    },
+    {
+        "id": 36,
+        "image": "./images/palutena.png"
+    },
+    {
+        "id": 37,
+        "image": "./images/peach.png"
+    },
+    {
+        "id": 38,
+        "image": "./images/pikachu.png"
+    },{
+        "id": 39,
+        "image": "./images/pit.png"
+    },
+    {
+        "id": 40,
+        "image": "./images/rob.png"
+    },
+    {
+        "id": 41,
+        "image": "./images/robin.png"
+    },
+    {
+        "id": 42,
+        "image": "./images/roy.png"
+    },
+    {
+        "id": 43,
+        "image": "./images/ryu.png"
+    },{
+        "id": 44,
+        "image": "./images/samus.png"
+    },
+    {
+        "id": 45,
+        "image": "./images/sheik.png"
+    },
+    {
+        "id": 46,
+        "image": "./images/shulk.png"
+    },
+    {
+        "id": 47,
+        "image": "./images/sonic.png"
+    },
+    {
+        "id": 48,
+        "image": "./images/villager.png"
+    },{
+        "id": 49,
+        "image": "./images/wario.png"
+    },
+    {
+        "id": 50,
+        "image": "./images/wii-fit-trainer.png"
+    },
+    {
+        "id": 51,
+        "image": "./images/yoshi.png"
+    },
+    {
+        "id": 52,
+        "image": "./images/young-link.png"
+    },
+    {
+        "id": 53,
+        "image": "./images/zelda.png"
+    },{
+        "id": 54,
+        "image": "./images/zero-suit-samus.png"
+    }
+]
