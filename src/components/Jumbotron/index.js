@@ -1,9 +1,7 @@
 import React from 'react';
+import './style.css';
 
-let score = 0;
-let highScore = 0;
-
-function Jumbotron() {
+function Jumbotron(props) {
     return (
         <div className="jumbotron text-center bg-primary text-white pb-4">
             <h1 className="display-2">Clicky Game</h1>
@@ -14,8 +12,10 @@ function Jumbotron() {
                 Click on one of the images below to increase your score. Be careful though, don't click an image twice.
             </p>
 
-            <span className="h3">
-                Score: {score} | High Score: {highScore}
+            <br />
+
+            <span>
+                Score: {props.score} | High Score: {props.highScore}
             </span>
         </div>
     );

@@ -21,6 +21,8 @@ class App extends React.Component {
       highScore = score;
     }
 
+    console.log(score, highScore);
+
     return {score, highScore};
   }
 
